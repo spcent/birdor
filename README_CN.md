@@ -71,7 +71,7 @@ Birdor 的工具遵循三个原则：
 * 架构与性能笔记
 
 始终保持：**实用、有深度、无废话**。
-[https://blog.birdor.com](https://birdor.com/blog)
+[https://birdor.com/blog](https://birdor.com/blog)
 
 ---
 
