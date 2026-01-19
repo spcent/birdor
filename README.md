@@ -69,7 +69,7 @@ A home for engineering notes, deep dives, and modern web & backend guides:
 * Infra + performance notes
 
 Always practical. Always honest.
-[https://blog.birdor.com](https://birdor.com/blog)
+[https://birdor.com/blog](https://birdor.com/blog)
 
 ---
 
